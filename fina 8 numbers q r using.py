@@ -95,3 +95,4 @@ for i in list(perm):
 
 #if value == 70:
 #        print(' value ')
+# second commit
